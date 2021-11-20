@@ -64,10 +64,7 @@ nav ul li a:hover {
 
 
 .copyright_are{
-    /* background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(29,191,115,1) 100%); */
-background: linear-gradient(
-90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background-color: #02002B;
     padding-top: 10px;
     padding-bottom: 10px;
     font-family: 'Roboto', sans-serif;
